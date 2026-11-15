@@ -1,3 +1,3 @@
-*.png lib/plymouth/themes/minos-screwdriver/
-*.plymouth lib/plymouth/themes/minos-screwdriver/
-*.script lib/plymouth/themes/minos-screwdriver/
+*.png usr/share/plymouth/themes/minos-screwdriver/
+*.plymouth usr/share/plymouth/themes/minos-screwdriver/
+*.script usr/share/plymouth/themes/minos-screwdriver/
